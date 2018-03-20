@@ -10,13 +10,12 @@ March 20, 2018
 Julia McLane
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This lesson showed how Javascript can be used to edit the HTML on a webpage using the HTML DOM. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jmcl17.github.io/lesson6_javascript3/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I found elements in the code by using the getElementsByTagName function. 
+2. JavaScript can identify elements by class or by id name.
+3. Created and removed nodes in the code
