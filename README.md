@@ -4,10 +4,10 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 20, 2018
 
 ### Student Name:  
-(First and Last Name)
+Julia McLane
 
 ### Project Description:
 (In your own words, briefly describe the assignment.)
